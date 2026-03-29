@@ -28,17 +28,18 @@ This repository is a collection of hands-on machine learning projects built to:
 ---
 
 ## 📊 Project Structure
-
+```
 Machine-Learning-Projects/
 │
 ├── Customer_Segmentation_using_K-means/
-│   ├── data/
+│   ├── Figures/
+│   ├── Mall_Customers.csv
 │   ├── notebook.ipynb
 │   ├── requirements.txt
 │   └── README.md
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation
