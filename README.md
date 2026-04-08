@@ -37,6 +37,22 @@ Machine-Learning-Projects/
 │   ├── notebook.ipynb
 │   ├── requirements.txt
 │   └── README.md
+|
+├── Calories_Burnt_Prediction/
+│   ├── Figures/
+│   ├── data/
+│   ├── notebook.ipynb
+│   └── requirements.txt
+|
+├── Movie_Recommendation/
+│   ├── movies.csv
+│   ├── notebook.ipynb
+│   └── requirements.txt
+|
+├── MINIST_Digit_Classification/
+│   ├── test.png
+│   ├── notebook.ipynb
+│   └── requirements.txt
 │
 └── README.md
 ```
