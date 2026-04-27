@@ -1,0 +1,94 @@
+# 🩺 Insurance Cost Prediction Dataset
+
+## 📌 Overview
+This dataset is adapted from the book *Machine Learning with R* by Brett Lantz. It contains information about individuals and their medical insurance charges. The original datasets are publicly available but required cleaning and formatting to align with the book's examples.
+
+This dataset is commonly used for regression tasks, especially to predict medical insurance costs based on personal attributes.
+
+---
+
+## 📊 Dataset Description
+
+The dataset includes the following columns:
+
+- **age**  
+  Age of the primary beneficiary.
+
+- **sex**  
+  Gender of the insurance contractor (`female`, `male`).
+
+- **bmi**  
+  Body Mass Index (BMI), calculated as weight (kg) / height (m²).  
+  - Ideal range: 18.5 – 24.9
+
+- **children**  
+  Number of dependents covered by health insurance.
+
+- **smoker**  
+  Smoking status (`yes`, `no`).
+
+- **region**  
+  Residential area in the US:
+  - northeast
+  - southeast
+  - southwest
+  - northwest
+
+- **charges**  
+  Individual medical costs billed by health insurance.
+
+---
+
+## 🎯 Objective
+
+The primary goal is to build a machine learning model that can:
+
+> 🔍 Predict individual medical insurance charges based on demographic and lifestyle factors.
+
+This makes it an excellent dataset for:
+- Regression analysis
+- Feature importance evaluation
+- Data preprocessing practice
+- Model comparison
+
+---
+
+## 🧹 Data Preparation
+
+The dataset has been:
+- Cleaned for consistency
+- Reformatted to match examples from the book
+- Verified to ensure usability for machine learning tasks
+
+---
+
+## 🚀 Getting Started
+
+### Example Workflow:
+1. Load the dataset  
+2. Perform exploratory data analysis (EDA)  
+3. Handle categorical variables (encoding)  
+4. Split data into training and testing sets  
+5. Train regression models (e.g., Linear Regression, Random Forest)  
+6. Evaluate performance using metrics like RMSE or R²  
+
+---
+
+## 💡 Inspiration
+
+Can you accurately predict insurance costs based on a person’s lifestyle and demographic details?
+
+Try experimenting with different models and feature engineering techniques to improve prediction accuracy.
+
+---
+
+## 📚 Acknowledgements
+
+- Dataset inspired by *Machine Learning with R* by Brett Lantz  
+- Original dataset source: Public domain (cleaned and reformatted)
+
+---
+
+## 📂 License
+
+This dataset is derived from public domain sources and is free to use for educational and research purposes.
